@@ -4,7 +4,10 @@
 
 ###
 
-<p align="center">I'm from New York, and I'm studying Computer Science and Data Science at NYU Courant.</p>
+<p align="center">
+  I'm from New York, and I'm studying Computer Science and Data Science at NYU Courant.<br>
+<!--   I'm currently working as a <strong>Software Engineering Summer Analyst at Tempus Labs</strong> for the Therapies Division! -->
+</p>
 
 ###
 
